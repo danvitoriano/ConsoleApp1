@@ -1,0 +1,14 @@
+/Users/danvitoriano/www/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/danvitoriano/www/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/danvitoriano/www/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/danvitoriano/www/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/danvitoriano/www/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/danvitoriano/www/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
